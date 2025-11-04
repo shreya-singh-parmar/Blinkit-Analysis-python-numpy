@@ -77,4 +77,4 @@ This project demonstrates data analysis using Python only (no Power BI), highlig
 🧑‍💻 Author
 
 Shreya Singh
-Business Analyst | Data Enthusiast | Python & SQL Learner
+Linked Profile: https://www.linkedin.com/in/shreya-singh-395ba31b3/
